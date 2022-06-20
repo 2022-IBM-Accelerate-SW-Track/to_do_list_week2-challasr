@@ -10,7 +10,8 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #cf8ff7;
+  /* original color: #0f62fe */
 }
 
 .right {
@@ -27,6 +28,9 @@
 
 .name_title {
   font-size: 48px;
+  /* added */
+  font-family: 'Times New Roman', Times, serif;
+  /**/
   color: black;
   text-align: left;
   padding-bottom: 20px;
@@ -34,6 +38,9 @@
 
 .brief_description {
   text-align: left;
+  /* added */
+  font-style: italic;
+  /**/
 }
 
 .profile_image {
